@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DEMO APP</string>
+    <string name="log_in">LOGIN</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="no_of_attempts_remaining">No of attempts remaining:</string>
+    <string name="welcome">WELCOME PIKACHU</string>
+</resources>
